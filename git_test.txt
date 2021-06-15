@@ -4,3 +4,4 @@ so hard to learn
 Creating a new branch is quick & simple.
 add a line.
 maodified by dev
+modified by dev in other dir
